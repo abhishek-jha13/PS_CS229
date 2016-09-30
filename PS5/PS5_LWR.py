@@ -5,7 +5,6 @@ import numpy as np
 from numpy import linalg
 from numpy import matrix
 import math
-from utilFuncs import invert
 import numpy.matlib
 
 def gaussian_kernel(x0, x, c, a=1.0):

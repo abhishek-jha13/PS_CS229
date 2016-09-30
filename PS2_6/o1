@@ -1,0 +1,70 @@
+starting from here!!!
+inside adaboost start
+sum of all weights =   1.0
+sum of all weights =   1.0
+sum of all weights =   1.0
+sum of all weights =   1.0
+sum of all weights =   1.0
+sum of all weights =   1.0
+sum of all weights =   1.0
+sum of all weights =   1.0
+sum of all weights =   1.0
+sum of all weights =   1.0
+sum of all weights =   1.0
+sum of all weights =   1.0
+sum of all weights =   1.0
+sum of all weights =   1.0
+sum of all weights =   1.0
+sum of all weights =   1.0
+sum of all weights =   1.0
+sum of all weights =   1.0
+insdie line 36
+[ 0.2  0.2  0.4  0.2  0.2  0.2  0.   0.2  0.   0.4  0.2  0.   0.2  0.2  0.2
+  0.2  0.   0.2]
+[ 0.2  0.2  0.4  0.2  0.2  0.2  0.   0.2  0.   0.4  0.2  0.   0.2  0.2  0.2
+  0.2  0.   0.2]
+inside line 63
+[ 0.4  0.4  0.8  0.4  0.4  0.4  0.   0.4  0.   0.8  0.4  0.   0.4  0.4  0.4
+  0.4  0.   0.4]
+min error feature =  1
+D[i,j] [ 0.2  0.2  0.2  0.2  0.2]
+sum of all D[ 1 ] =  1.0
+sum of all d1[ 1 ] =  0.25
+sum of all d2[ 1 ] =  0.333333333333
+sum of all d3[ 1 ] =  0.25
+sum of all d4[ 1 ] =  0.166666666667
+sum of all ctrd1[ 1 ] =  1
+sum of all ctrd2[ 1 ] =  2
+sum of all ctrd3[ 1 ] =  1
+sum of all ctrd4[ 1 ] =  1
+inside adaboost start
+sum of all weights =   2.0
+sum of all weights =   2.0
+sum of all weights =   2.0
+sum of all weights =   2.0
+sum of all weights =   2.0
+sum of all weights =   2.0
+sum of all weights =   2.0
+sum of all weights =   2.0
+sum of all weights =   2.0
+sum of all weights =   2.0
+sum of all weights =   2.0
+sum of all weights =   2.0
+sum of all weights =   2.0
+sum of all weights =   2.0
+sum of all weights =   2.0
+sum of all weights =   2.0
+sum of all weights =   2.0
+sum of all weights =   2.0
+insdie line 36
+[ 0.36666667  0.45        0.81666667  0.36666667  0.45        0.36666667
+  0.          0.45        0.          0.81666667  0.36666667  0.          0.45
+  0.45        0.36666667  0.45        0.          0.45      ]
+[ 0.36666667  0.45        0.81666667  0.36666667  0.36666667  0.36666667
+  0.          0.36666667  0.          0.81666667  0.45        0.
+  0.36666667  0.36666667  0.45        0.36666667  0.          0.36666667]
+inside line 63
+[ 0.73333333  0.9         1.63333333  0.73333333  0.81666667  0.73333333
+  0.          0.81666667  0.          1.63333333  0.81666667  0.
+  0.81666667  0.81666667  0.81666667  0.81666667  0.          0.81666667]
+min error feature =  2
